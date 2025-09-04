@@ -32,9 +32,14 @@ This repository contains various AI-generated videos and images for the project.
 - **File**: `New_project_2025-08-11_07-11-42_easyvid.mp4`
 - **Description**: Second project video from August 11, 2025.
 
-### 8. ComfyUI Video
+### 8. ComfyUI Videos
 - **File**: `comfyui-00002_j3RRy3uO.mp4`
-- **Description**: Video generated using ComfyUI with unique visual effects.
+  - **Description**: Video generated using ComfyUI with unique visual effects.
+- **File**: `video/ComfyUI_00007_.mp4` to `video/ComfyUI_00031_.mp4`
+  - **Description**: A series of AI-generated videos created using ComfyUI, showcasing various visual effects and animations. These include:
+    - `ComfyUI_00007_.mp4` - `ComfyUI_00016_.mp4`: Initial sequence of AI-generated content
+    - `ComfyUI_00017_.mp4` - `ComfyUI_00024_.mp4`: Middle sequence with enhanced visual effects
+    - `ComfyUI_00025_.mp4` - `ComfyUI_00031_.mp4`: Latest high-quality AI video generations
 
 ### 9. Kling Multi-Elements Swap
 - **File**: `kling_20250811_Multi_Elements_swap__subj_1830_0.mp4`
